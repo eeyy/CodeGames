@@ -1,0 +1,11 @@
+C:\Users\KoT\Desktop\SnakeBattle\CodeBattleNet\SnakeBattleApi\bin\Debug\SnakeBattle.Api.dll
+C:\Users\KoT\Desktop\SnakeBattle\CodeBattleNet\SnakeBattleApi\bin\Debug\SnakeBattle.Api.pdb
+C:\Users\KoT\Desktop\SnakeBattle\CodeBattleNet\SnakeBattleApi\bin\Debug\websocket-sharp.dll
+C:\Users\KoT\Desktop\SnakeBattle\CodeBattleNet\SnakeBattleApi\bin\Debug\websocket-sharp.xml
+C:\Users\KoT\Desktop\SnakeBattle\CodeBattleNet\SnakeBattleApi\obj\Debug\SnakeBattle.Api.csprojAssemblyReference.cache
+C:\Users\KoT\Desktop\SnakeBattle\CodeBattleNet\SnakeBattleApi\obj\Debug\SnakeBattle.Api.csproj.CoreCompileInputs.cache
+C:\Users\KoT\Desktop\SnakeBattle\CodeBattleNet\SnakeBattleApi\obj\Debug\SnakeBattle.Api.csproj.CopyComplete
+C:\Users\KoT\Desktop\SnakeBattle\CodeBattleNet\SnakeBattleApi\obj\Debug\SnakeBattle.Api.dll
+C:\Users\KoT\Desktop\SnakeBattle\CodeBattleNet\SnakeBattleApi\obj\Debug\SnakeBattle.Api.pdb
+C:\Users\KoT\Desktop\SnakeBattle\CodeBattleNet\SnakeBattleApi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KoT\Desktop\SnakeBattle\CodeBattleNet\SnakeBattleApi\bin\Debug\System.Numerics.Vectors.xml
